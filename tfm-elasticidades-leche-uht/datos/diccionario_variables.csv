@@ -1,0 +1,12 @@
+﻿variable,descripcion,tipo,unidad_o_codificacion
+fecha,Semana de observación.,fecha,AAAA-MM-DD
+segmento,Segmento de leche UHT considerado en la observación.,texto,CLASICA / SIN_LACTOSA
+marca,Marca comercial del producto.,texto,"MDD, COVAP, PULEVA, ASTURIANA, CELTA, LA_VAQUERA, PASCUAL, etc."
+id_producto,Identificador producto-segmento-marca utilizado para el panel.,texto,segmento_marca
+ventas_litros,Ventas semanales en volumen.,numérica,litros
+precio,Precio medio semanal por litro.,numérica,euros/litro
+distancia_ponderada,Variable de distancia ponderada frente a competidores/segmento según construcción de la base.,numérica,índice
+dummy_folleto,Indicador de presencia en folleto/promoción.,binaria,1 = presencia en folleto; 0 = no presencia
+Precios_Leche,Precio mensual de la leche cruda incorporado a la semana correspondiente.,numérica,euros/litro
+Precios_electricidad,Índice/precio mensual de electricidad incorporado a la semana correspondiente.,numérica,índice
+Precios_gasóleo,Índice/precio mensual de gasóleo/combustible incorporado a la semana correspondiente.,numérica,índice
