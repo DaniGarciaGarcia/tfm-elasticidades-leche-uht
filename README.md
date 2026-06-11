@@ -8,7 +8,7 @@ El estudio utiliza datos semanales para el mercado español de gran distribució
 
 ## Contenido
 
-La carpeta `datos/` incluye:
+La carpeta del repositorio que contiene los datos incluye::
 
 - `base_tfm_clasicas.csv`: base principal del segmento de leches clásicas.
 - `base_tfm_sin_lactosa.csv`: base utilizada para la réplica en el segmento de leche sin lactosa.
